@@ -1,3 +1,7 @@
+body {
+    background-color: #ccc;
+}
+
 .app {
     margin-top: 20px;
     border: 1px solid #ddd;
@@ -5,6 +9,37 @@
     padding: 10px;
     
 }
+
+.app-back {
+    background: url("https://cdn5.vectorstock.com/i/1000x1000/95/64/vertical-city-background-vector-13519564.jpg") center / cover no-repeat;
+}
+
+.app-back_London {
+    background: url("https://cdn.britannica.com/01/94501-050-7C939333/Big-Ben-London.jpg") center / cover no-repeat;
+    color: #fff;
+    -webkit-text-stroke: 0.7px rgb(122, 108, 108);
+}
+
+.app-back_LA {
+    background: url("https://wallpapershome.com/images/pages/pic_v/19729.jpg") center / cover no-repeat;
+    color: #fff;
+    -webkit-text-stroke: 0.7px rgb(163, 144, 144);
+}
+
+.app-back_Shp {
+    background: url("http://photos.wikimapia.org/p/00/02/66/80/48_big.jpg") center / cover no-repeat;
+    color: #fff;
+    -webkit-text-stroke: 0.7px rgb(122, 108, 108);
+
+}
+
+.app-back_SPdP {
+    background: url("https://lh3.googleusercontent.com/wVH6Pjb6JLkCcAcgdSZYq4EUrJAViYR4MVEZuOHZ33nXWjvtkbfTxIrOKLfE4FEoie_spzQKTUoQYTwdBZoQMGxGBe0axXBlY04") center / cover no-repeat;
+    color: #fff;
+    -webkit-text-stroke: 0.6px rgb(196, 172, 172);
+}
+
+
 
 .selecttitle {
     text-align: center;
