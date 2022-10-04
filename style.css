@@ -10,10 +10,6 @@ body {
     
 }
 
-.app-back {
-    background: url("https://cdn5.vectorstock.com/i/1000x1000/95/64/vertical-city-background-vector-13519564.jpg") center / cover no-repeat;
-}
-
 .app-back_London {
     background: url("https://cdn.britannica.com/01/94501-050-7C939333/Big-Ben-London.jpg") center / cover no-repeat;
     color: #fff;
